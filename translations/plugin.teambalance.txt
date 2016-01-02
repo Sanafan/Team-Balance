@@ -3,8 +3,8 @@
 	"ct switch"
 	{
 		"da"		"Du vil blive skiftet til anti terrorist styrker"
-		"de"		" Du wurdest in das Counter Terroristen Team gewechselt"
-		"en"		" You are being switched to the counter terrorist team"
+		"de"		"Du wurdest in das Anti-Terroristen Team verschoben"
+		"en"		"You are being switched to the counter terrorist team"
 		"hu"		"Át lettél helyezve az anti-terroristák csapatába"
 		"pl"		"Zostałeś przeniesiony do Drużyny CT"
 		"ru"		"Вы были перенесены за команду контр террористов"
@@ -13,7 +13,7 @@
 	"t switch"
 	{
 		"da"		"Du vil blive skiftet til terrorist styrker"
-		"de"		"Du wurdest in das Terroisten Team gewechselt"
+		"de"		"Du wurdest in das Terroristen Team verschoben"
 		"en"		"You are being switched to the terrorist team"
 		"hu"		"Át lettél helyezve a terroristák csapatába"
 		"pl"		"Zostałeś przeniesiony do Drużyny T"
@@ -33,7 +33,7 @@
 	"balanced"
 	{
 		"da"		"Det ser ud somom at holdene er balanceret"
-		"de"		"Die Teams scheinen ausgeglichen"
+		"de"		"Die Teams scheinen ausgeglichen zu sein"
 		"en"		"The teams appear to be balanced"
 		"hu"		"A csapatok kiegyenlítettek"
 		"pl"		"Drużyny zostały wyrównane"
@@ -63,6 +63,7 @@
 	"team management menu"
 	{
 		"da"		"Hold Manager"
+		"de"		"Teamverwaltung"
 		"en"		"Team Management"
 		"hu"		"Csapat beállítás"
 		"pl"		"Zarządzanie drużynami"
@@ -71,6 +72,7 @@
 	"swap teams"
 	{
 		"da"		"Skift Holdene"
+		"de"		"Teams tauschen"
 		"en"		"Swap Teams"
 		"hu"		"Csapatok cseréje"
 		"pl"		"Zamień drużyny"
@@ -79,6 +81,7 @@
 	"switch player"
 	{
 		"da"		"Byt På Spillere"
+		"de"		"Spieler tauschen"
 		"en"		"Switch Player"
 		"hu"		"Játékos átállítása"
 		"pl"		"Przerzuć gracza"
@@ -87,6 +90,7 @@
 	"switch player next"
 	{
 		"da"		"Skift Spillere Næste Runde"
+		"de"		"Spieler nächste Runde tauschen"
 		"en"		"Switch Player Next Round"
 		"hu"		"Játékos átállítása a következő körben"
 		"pl"		"Przerzuć gracza w następnej rundzie"
@@ -95,6 +99,7 @@
 	"announce preferences"
 	{
 		"da"		"Announce Indstillinger"
+		"de"		"Ankündigungseinstellungen"
 		"en"		"Announce Preferences"
 		"hu"		"Értesítések beállítása"
 		"pl"		"Ustawienia ogłoszeń"
